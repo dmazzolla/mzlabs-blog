@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [Agent Autoloop: tarefas em segundo plano, com perguntas para você decidir.](https://mzlabs.com.br/bancada-ia/2026-11-07-bancada-ia/): Bancada IA, 07/11/2026. Agent Autoloop: tarefas em segundo plano, com perguntas para você decidir. Estreia a Bancada IA: ferramentas abertas para testar, toda terça, quinta, sábado e domingo.
 - [Três propostas, três formatos. No Tally, elas ficam lado a lado.](https://mzlabs.com.br/tally-na-pratica/2026-11-06-tally-na-pratica/): Tally na Prática, 06/11/2026. Três fornecedores, três respostas, três formatos.
 - [A OpenAI diz que um pipeline autônomo achou 948 vulnerabilidades no kernel Linux.](https://mzlabs.com.br/radar-ia/2026-11-06-radar-ia/): Radar IA, 06/11/2026. A OpenAI diz que um pipeline autônomo achou 948 vulnerabilidades no kernel Linux. E mais 4 notícias de IA para discutir com o seu time.
 - [Nota bateu com o pedido? O recebimento abre sozinho.](https://mzlabs.com.br/tally-na-pratica/2026-11-05-nota-que-bate-com-o-pedido/): Tally na Prática, 05/11/2026. Toda nota que chega passa pela mesma conferência: preço, quantidade, impostos e NCM, item por item. Quando está tudo certo, essa conferência é só mais um clique na fila.
