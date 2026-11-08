@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [Segundo a Maritaca, o S5-nano, de 4B, lidera a média Native BR entre os modelos da tabela dela no modo Think.](https://mzlabs.com.br/bancada-ia/2026-11-08-bancada-ia/): Bancada IA, 08/11/2026. Segundo a Maritaca, o S5-nano lidera a média Native BR no modo Think entre os modelos da tabela dela. E ele tem só 4B de parâmetros.
 - [Conferir sem ver a resposta. Contagem cega no recebimento.](https://mzlabs.com.br/tally-na-pratica/2026-11-07-tally-na-pratica/): Tally na Prática, 07/11/2026. Conferente que conta sem ver o esperado.
 - [Agent Autoloop: tarefas em segundo plano, com perguntas para você decidir.](https://mzlabs.com.br/bancada-ia/2026-11-07-bancada-ia/): Bancada IA, 07/11/2026. Agent Autoloop: tarefas em segundo plano, com perguntas para você decidir. Estreia a Bancada IA: ferramentas abertas para testar, toda terça, quinta, sábado e domingo.
 - [Três propostas, três formatos. No Tally, elas ficam lado a lado.](https://mzlabs.com.br/tally-na-pratica/2026-11-06-tally-na-pratica/): Tally na Prática, 06/11/2026. Três fornecedores, três respostas, três formatos.
