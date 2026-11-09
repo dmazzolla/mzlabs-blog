@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [Recall do fornecedor. Qual lote está na sua prateleira?](https://mzlabs.com.br/tally-na-pratica/2026-11-09-tally-na-pratica/): Tally na Prática, 09/11/2026. O aviso chega e a pergunta é sempre a mesma: desse lote, quanto entrou, quanto ainda tem e em qual armazém está. Quem guarda o estoque sai procurando em planilha, nota e etiqueta, enquanto o item segue disponível para saída.
 - [A OpenAI apresentou o GPT-6 Cyber .](https://mzlabs.com.br/radar-ia/2026-11-09-radar-ia/): Radar IA, 09/11/2026. A OpenAI apresentou o GPT-6 Cyber, modelo de cibersegurança para achar vulnerabilidades e desenvolver correções. Também neste radar: o conselho da Nvidia vai investigar Jensen Huang, segundo o TechCrunch e o The Verge, o Cosmos 3 e um modelo de voz que roda na CPU.
 - [Cobrança do CT-e não bateu? A IA explica e rascunha a contestação.](https://mzlabs.com.br/tally-na-pratica/2026-11-08-tally-na-pratica/): Tally na Prática, 08/11/2026. Cada CT-e chega com várias cobranças. Conferir uma por uma toma tempo. E quando algo não bate, alguém ainda precisa entender o motivo e escrever para a transportadora.
 - [Segundo a Maritaca, o S5-nano, de 4B, lidera a média Native BR entre os modelos da tabela dela no modo Think.](https://mzlabs.com.br/bancada-ia/2026-11-08-bancada-ia/): Bancada IA, 08/11/2026. Segundo a Maritaca, o S5-nano lidera a média Native BR no modo Think entre os modelos da tabela dela. E ele tem só 4B de parâmetros.
