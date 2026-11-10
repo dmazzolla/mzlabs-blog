@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [Preço já negociado? O pedido sai em um toque.](https://mzlabs.com.br/tally-na-pratica/2026-11-10-tally-na-pratica/): Tally na Prática, 10/11/2026. O comprador fechou um preço com o fornecedor para o ano todo. Mesmo assim, a cada pedido alguém precisa achar o acordo, ver quanto ainda resta e conferir se ele não venceu.
 - [Pergunte ao seu banco de dados pelo Claude ou pelo ChatGPT.](https://mzlabs.com.br/bancada-ia/2026-11-10-bancada-ia/): Bancada IA, 10/11/2026. Pergunte ao seu banco de dados pelo Claude ou pelo ChatGPT. O Auto Ontology MCP checa o SQL contra a ontologia e os dados. As definições e o resultado ainda pedem revisão de uma pessoa.
 - [Recall do fornecedor. Qual lote está na sua prateleira?](https://mzlabs.com.br/tally-na-pratica/2026-11-09-tally-na-pratica/): Tally na Prática, 09/11/2026. O aviso chega e a pergunta é sempre a mesma: desse lote, quanto entrou, quanto ainda tem e em qual armazém está. Quem guarda o estoque sai procurando em planilha, nota e etiqueta, enquanto o item segue disponível para saída.
 - [A OpenAI apresentou o GPT-6 Cyber .](https://mzlabs.com.br/radar-ia/2026-11-09-radar-ia/): Radar IA, 09/11/2026. A OpenAI apresentou o GPT-6 Cyber, modelo de cibersegurança para achar vulnerabilidades e desenvolver correções. Também neste radar: o conselho da Nvidia vai investigar Jensen Huang, segundo o TechCrunch e o The Verge, o Cosmos 3 e um modelo de voz que roda na CPU.
