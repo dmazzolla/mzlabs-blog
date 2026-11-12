@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [Anotações de reunião com IA, sem robô na chamada.](https://mzlabs.com.br/bancada-ia/2026-11-12-bancada-ia/): Bancada IA, 12/11/2026. Anotações de reunião com IA, sem robô na chamada. O Yogurt é aberto, grátis e já roda no Mac, no Windows e no Linux.
 - [Seu fornecedor pisou na bola. Ele sabe?](https://mzlabs.com.br/tally-na-pratica/2026-11-11-tally-na-pratica/): Tally na Prática, 11/11/2026. Seu fornecedor sabe como anda a entrega dele com você?
 - [O Google lança o Gemini 4 Carbon .](https://mzlabs.com.br/radar-ia/2026-11-11-radar-ia/): Radar IA, 11/11/2026. O Google lança o Gemini 4 Carbon. A Anthropic define a faixa de preço do IPO. E mais 3 notícias de IA para discutir com o seu time.
 - [Preço já negociado? O pedido sai em um toque.](https://mzlabs.com.br/tally-na-pratica/2026-11-10-tally-na-pratica/): Tally na Prática, 10/11/2026. O comprador fechou um preço com o fornecedor para o ano todo. Mesmo assim, a cada pedido alguém precisa achar o acordo, ver quanto ainda resta e conferir se ele não venceu.
