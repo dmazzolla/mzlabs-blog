@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [O Google lança o Gemini 4 Hydrogen .](https://mzlabs.com.br/radar-ia/2026-11-13-radar-ia/): Radar IA, 13/11/2026. O Google lança o Gemini 4 Hydrogen e já leva o modelo para a Busca. E mais 5 notícias de IA para discutir com o seu time.
 - [A IA lê a plaqueta pela foto.](https://mzlabs.com.br/tally-na-pratica/2026-11-12-tally-na-pratica/): Tally na Prática, 12/11/2026. A IA lê a plaqueta do equipamento pela foto. Você confere e confirma.
 - [Por dentro da fábrica que constrói o Tally.](https://mzlabs.com.br/posts/2026-11-12-bastidores-abertura/): MzLabs, 12/11/2026. Hoje estreia um quadro novo: Bastidores da fábrica.
 - [Anotações de reunião com IA, sem robô na chamada.](https://mzlabs.com.br/bancada-ia/2026-11-12-bancada-ia/): Bancada IA, 12/11/2026. Anotações de reunião com IA, sem robô na chamada. O Yogurt é aberto, grátis e já roda no Mac, no Windows e no Linux.
