@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [A AWS mostra como medir o custo por tarefa resolvida.](https://mzlabs.com.br/bancada-ia/2026-11-15-bancada-ia/): Bancada IA, 15/11/2026. Preço por token não mostra quanto custa concluir uma tarefa. A AWS publicou um exemplo que estima o custo por tarefa que passa nos testes.
 - [A fábrica entregou 54 tarefas nesta semana.](https://mzlabs.com.br/posts/2026-11-14-bastidores-semana-46/): MzLabs, 14/11/2026. Bastidores da fábrica, semana de 05 a 11/11.
 - [O llama.cpp chega à versão 1.0.](https://mzlabs.com.br/bancada-ia/2026-11-14-bancada-ia/): Bancada IA, 14/11/2026. O llama.cpp chegou à versão 1.0. É o projeto que roda modelos de IA na sua própria máquina, do notebook ao servidor da empresa.
 - [O que está fora do normal hoje? Uma caixa só responde.](https://mzlabs.com.br/tally-na-pratica/2026-11-13-tally-na-pratica/): Tally na Prática, 13/11/2026. Quem toca a operação acompanha muita coisa ao mesmo tempo. A divergência do armazém está num lugar, a do frete em outro, a do fiscal em outro, o pedido atrasado em outro. Para saber o que precisa de atenção hoje, é preciso abrir tudo.
