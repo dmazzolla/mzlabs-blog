@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [Sem sinal no galpão? O coletor continua.](https://mzlabs.com.br/tally-na-pratica/2026-11-16-tally-na-pratica/): Tally na Prática, 16/11/2026. O sinal sumiu no fundo do galpão? A contagem continua.
 - [A OpenAI apresenta o ChatGPT Wallet .](https://mzlabs.com.br/radar-ia/2026-11-16-radar-ia/): Radar IA, 16/11/2026. A OpenAI apresenta o ChatGPT Wallet. O Google lança o Gemini 4 Hydrogen. E mais 3 notícias de IA para discutir com o seu time.
 - [Material novo ou já cadastrado com outro nome?](https://mzlabs.com.br/tally-na-pratica/2026-11-15-tally-na-pratica/): Tally na Prática, 15/11/2026. O comprador precisa de um item que não está na base. Abre o cadastro e preenche campo por campo. E às vezes o item já existia, com outro nome.
 - [A AWS mostra como medir o custo por tarefa resolvida.](https://mzlabs.com.br/bancada-ia/2026-11-15-bancada-ia/): Bancada IA, 15/11/2026. Preço por token não mostra quanto custa concluir uma tarefa. A AWS publicou um exemplo que estima o custo por tarefa que passa nos testes.
