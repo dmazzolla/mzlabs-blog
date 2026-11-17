@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [Claude Code com revisão em 3 etapas antes do merge.](https://mzlabs.com.br/bancada-ia/2026-11-17-bancada-ia/): Bancada IA, 17/11/2026. Claude Code com revisão em 3 etapas antes do merge. O autor diz que montou esse setup depois de mais de 4.500 horas programando com IA. O número é uma estimativa pessoal dele, não uma medição automática.
 - [Sem sinal no galpão? O coletor continua.](https://mzlabs.com.br/tally-na-pratica/2026-11-16-tally-na-pratica/): Tally na Prática, 16/11/2026. O sinal sumiu no fundo do galpão? A contagem continua.
 - [A OpenAI apresenta o ChatGPT Wallet .](https://mzlabs.com.br/radar-ia/2026-11-16-radar-ia/): Radar IA, 16/11/2026. A OpenAI apresenta o ChatGPT Wallet. O Google lança o Gemini 4 Hydrogen. E mais 3 notícias de IA para discutir com o seu time.
 - [Material novo ou já cadastrado com outro nome?](https://mzlabs.com.br/tally-na-pratica/2026-11-15-tally-na-pratica/): Tally na Prática, 15/11/2026. O comprador precisa de um item que não está na base. Abre o cadastro e preenche campo por campo. E às vezes o item já existia, com outro nome.
