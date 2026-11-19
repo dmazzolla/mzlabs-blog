@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [O Hy4-flash, da Tencent, lê imagem e responde em texto.](https://mzlabs.com.br/bancada-ia/2026-11-19-bancada-ia/): Bancada IA, 19/11/2026. A Tencent abriu o Hy4-flash, um modelo que recebe imagem e texto e responde em texto.
 - [A OpenAI lança o GPT-6.2 Astra e Sol .](https://mzlabs.com.br/radar-ia/2026-11-18-radar-ia/): Radar IA, 18/11/2026. A OpenAI lança o GPT-6.2 Astra e Sol. A Anthropic prepara o IPO. E mais 4 notícias de IA para discutir com o seu time.
 - [Três propostas, três formatos? No Tally, ficam lado a lado.](https://mzlabs.com.br/tally-na-pratica/2026-11-18-tally-na-pratica/): Tally na Prática, 18/11/2026. Três propostas em três formatos? No Tally, elas ficam lado a lado.
 - [Peça em uma frase. O assistente prepara, você aprova.](https://mzlabs.com.br/tally-na-pratica/2026-11-17-tally-na-pratica/): Tally na Prática, 17/11/2026. Criar uma cotação, aprovar, gerar o pedido, achar um indicador. Cada tarefa simples tem o seu caminho no sistema, e o dia do comprador vai embora entre uma tela e outra.
