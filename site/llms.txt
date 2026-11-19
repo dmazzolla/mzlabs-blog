@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [Três propostas, três formatos? No Tally, ficam lado a lado.](https://mzlabs.com.br/tally-na-pratica/2026-11-18-tally-na-pratica/): Tally na Prática, 18/11/2026. Três propostas em três formatos? No Tally, elas ficam lado a lado.
 - [Peça em uma frase. O assistente prepara, você aprova.](https://mzlabs.com.br/tally-na-pratica/2026-11-17-tally-na-pratica/): Tally na Prática, 17/11/2026. Criar uma cotação, aprovar, gerar o pedido, achar um indicador. Cada tarefa simples tem o seu caminho no sistema, e o dia do comprador vai embora entre uma tela e outra.
 - [Claude Code com revisão em 3 etapas antes do merge.](https://mzlabs.com.br/bancada-ia/2026-11-17-bancada-ia/): Bancada IA, 17/11/2026. Claude Code com revisão em 3 etapas antes do merge. O autor diz que montou esse setup depois de mais de 4.500 horas programando com IA. O número é uma estimativa pessoal dele, não uma medição automática.
 - [Sem sinal no galpão? O coletor continua.](https://mzlabs.com.br/tally-na-pratica/2026-11-16-tally-na-pratica/): Tally na Prática, 16/11/2026. O sinal sumiu no fundo do galpão? A contagem continua.
