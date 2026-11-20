@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [Google lança o Gemini 4 Neon . Anthropic estreia na bolsa.](https://mzlabs.com.br/radar-ia/2026-11-20-radar-ia/): Radar IA, 20/11/2026. O Google lança o Gemini 4 Neon. A Anthropic estreia na Nasdaq. E mais 4 notícias de IA para discutir com o seu time.
 - [Taxa extra no CT-e? A IA aponta e rascunha a contestação.](https://mzlabs.com.br/tally-na-pratica/2026-11-19-tally-na-pratica/): Tally na Prática, 19/11/2026. Apareceu uma taxa extra no CT-e? No Tally, a IA ajuda a conferir a cobrança e rascunha a contestação.
 - [O Hy4-flash, da Tencent, lê imagem e responde em texto.](https://mzlabs.com.br/bancada-ia/2026-11-19-bancada-ia/): Bancada IA, 19/11/2026. A Tencent abriu o Hy4-flash, um modelo que recebe imagem e texto e responde em texto.
 - [A OpenAI lança o GPT-6.2 Astra e Sol .](https://mzlabs.com.br/radar-ia/2026-11-18-radar-ia/): Radar IA, 18/11/2026. A OpenAI lança o GPT-6.2 Astra e Sol. A Anthropic prepara o IPO. E mais 4 notícias de IA para discutir com o seu time.
