@@ -12,7 +12,6 @@
 ## Posts
 
 - [Acordo de preço com saldo? Faça o pedido em um toque.](https://mzlabs.com.br/tally-na-pratica/2026-11-21-tally-na-pratica/): Tally na Prática, 21/11/2026. O comprador fecha um acordo de preço com o fornecedor. O preço ficou na planilha ou no e-mail. Na hora de pedir, o comprador precisa conferir quanto já foi pedido e se o acordo ainda está válido.
-- [O FastFrames-L da Apple gera vídeo a partir de texto.](https://mzlabs.com.br/bancada-ia/2026-11-21-bancada-ia/): Bancada IA, 21/11/2026. A Apple publicou o FastFrames-L, modelo que gera vídeo em 480p a partir de texto. É o destaque da Bancada IA desta semana, que traz mais três modelos.
 - [O fornecedor pediu recall. Qual lote você precisa bloquear?](https://mzlabs.com.br/tally-na-pratica/2026-11-20-tally-na-pratica/): Tally na Prática, 20/11/2026. O fornecedor pediu recall: um lote veio com problema. Qual lote você precisa bloquear?
 - [Google lança o Gemini 4 Neon . Anthropic estreia na bolsa.](https://mzlabs.com.br/radar-ia/2026-11-20-radar-ia/): Radar IA, 20/11/2026. O Google lança o Gemini 4 Neon. A Anthropic estreia na Nasdaq. E mais 4 notícias de IA para discutir com o seu time.
 - [Taxa extra no CT-e? A IA aponta e rascunha a contestação.](https://mzlabs.com.br/tally-na-pratica/2026-11-19-tally-na-pratica/): Tally na Prática, 19/11/2026. Apareceu uma taxa extra no CT-e? No Tally, a IA ajuda a conferir a cobrança e rascunha a contestação.
