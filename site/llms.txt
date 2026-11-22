@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [Teste uma captura de tela com o Inkling 2 Mini.](https://mzlabs.com.br/bancada-ia/2026-11-22-bancada-ia/): Bancada IA, 22/11/2026. O Inkling 2 Mini é um modelo local que também recebe imagem, além de texto.
 - [O frete que podia cotar a rota errada.](https://mzlabs.com.br/posts/2026-11-21-bastidores-semana-47/): MzLabs, 21/11/2026. Bastidores da fábrica, de 12 a 20/11.
 - [O FastFrames-L da Apple gera vídeo a partir de texto.](https://mzlabs.com.br/bancada-ia/2026-11-21-bancada-ia/): Bancada IA, 21/11/2026. A Apple publicou o FastFrames-L, modelo que gera vídeo em 480p a partir de texto. É o destaque da Bancada IA desta semana, que traz mais três modelos.
 - [Acordo de preço com saldo? Faça o pedido em um toque.](https://mzlabs.com.br/tally-na-pratica/2026-11-21-tally-na-pratica/): Tally na Prática, 21/11/2026. O comprador fecha um acordo de preço com o fornecedor. O preço ficou na planilha ou no e-mail. Na hora de pedir, o comprador precisa conferir quanto já foi pedido e se o acordo ainda está válido.
