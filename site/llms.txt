@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [A OpenAI e a Cisco lançam o Shirudo.](https://mzlabs.com.br/bancada-ia/2026-11-24-bancada-ia/): Bancada IA, 24/11/2026. O patch ainda não chegou? A OpenAI e a Cisco lançaram o Shirudo, código aberto para ajudar a proteger sistemas Linux em funcionamento nesse intervalo.
 - [Foto da plaqueta. A IA lê, uma pessoa confirma.](https://mzlabs.com.br/tally-na-pratica/2026-11-23-tally-na-pratica/): Tally na Prática, 23/11/2026. Imagine o cadastro de um compressor com a plaqueta atrás da máquina. Você anota o número de série junto ao equipamento e depois digita o mesmo número no cadastro.
 - [Seu armazém precisa parar para contar?](https://mzlabs.com.br/tally-na-pratica/2026-11-22-tally-na-pratica/): Tally na Prática, 22/11/2026. Quando o inventário para o armazém, recebimento e expedição podem ter de esperar. O almoxarife fica entre contar o estoque e atender a operação.
 - [Teste uma captura de tela com o Inkling 2 Mini.](https://mzlabs.com.br/bancada-ia/2026-11-22-bancada-ia/): Bancada IA, 22/11/2026. O Inkling 2 Mini é um modelo local que também recebe imagem, além de texto.
