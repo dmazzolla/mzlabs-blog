@@ -12,7 +12,6 @@
 ## Posts
 
 - [Foto da plaqueta. A IA lê, uma pessoa confirma.](https://mzlabs.com.br/tally-na-pratica/2026-11-23-tally-na-pratica/): Tally na Prática, 23/11/2026. Imagine o cadastro de um compressor com a plaqueta atrás da máquina. Você anota o número de série junto ao equipamento e depois digita o mesmo número no cadastro.
-- [Anthropic estreia na Nasdaq: oferta de cerca de US$ 93,5 bi](https://mzlabs.com.br/radar-ia/2026-11-23-radar-ia/): Radar IA, 23/11/2026. A Anthropic concluiu sua oferta inicial de ações. O cientista-chefe da OpenAI propôs uma métrica para comparar modelos. O Radar traz ainda quatro notícias sobre a Nvidia, um modelo aberto, agentes e matemática.
 - [Seu armazém precisa parar para contar?](https://mzlabs.com.br/tally-na-pratica/2026-11-22-tally-na-pratica/): Tally na Prática, 22/11/2026. Quando o inventário para o armazém, recebimento e expedição podem ter de esperar. O almoxarife fica entre contar o estoque e atender a operação.
 - [Teste uma captura de tela com o Inkling 2 Mini.](https://mzlabs.com.br/bancada-ia/2026-11-22-bancada-ia/): Bancada IA, 22/11/2026. O Inkling 2 Mini é um modelo local que também recebe imagem, além de texto.
 - [O frete que podia cotar a rota errada.](https://mzlabs.com.br/posts/2026-11-21-bastidores-semana-47/): MzLabs, 21/11/2026. Bastidores da fábrica, de 12 a 20/11.
