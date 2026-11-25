@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [A Busca do Google começa a se conectar ao Google Wallet .](https://mzlabs.com.br/radar-ia/2026-11-25-radar-ia/): Radar IA, 25/11/2026. A Busca do Google começa a se conectar ao Google Wallet. E mais: ações da Anthropic abaixo do preço do IPO e outras 4 notícias de IA.
 - [Entregou no prazo e completo? O fornecedor também vê.](https://mzlabs.com.br/tally-na-pratica/2026-11-24-tally-na-pratica/): Tally na Prática, 24/11/2026. Avaliar fornecedor de memória vira discussão. Atrasou quantas vezes? Veio faltando item? Sem registro, a conversa fica no achismo.
 - [A OpenAI e a Cisco lançam o Shirudo.](https://mzlabs.com.br/bancada-ia/2026-11-24-bancada-ia/): Bancada IA, 24/11/2026. O patch ainda não chegou? A OpenAI e a Cisco lançaram o Shirudo, código aberto para ajudar a proteger sistemas Linux em funcionamento nesse intervalo.
 - [Foto da plaqueta. A IA lê, uma pessoa confirma.](https://mzlabs.com.br/tally-na-pratica/2026-11-23-tally-na-pratica/): Tally na Prática, 23/11/2026. Imagine o cadastro de um compressor com a plaqueta atrás da máquina. Você anota o número de série junto ao equipamento e depois digita o mesmo número no cadastro.
