@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [Esse pedido já foi pago? O assistente de IA consulta o SAP.](https://mzlabs.com.br/bancada-ia/2026-11-26-bancada-ia/): Bancada IA, 26/11/2026. Esse pedido de compra já foi pago? Com o SAP Data MCP, o assistente pode buscar o pedido, a fatura e os itens em aberto no S/4HANA. A equipe responsável confere os registros antes de confirmar o pagamento.
 - [Qual exceção vence hoje?](https://mzlabs.com.br/tally-na-pratica/2026-11-25-tally-na-pratica/): Tally na Prática, 25/11/2026. Armazém, frete, fiscal e pedidos. As exceções numa caixa só.
 - [A Busca do Google começa a se conectar ao Google Wallet .](https://mzlabs.com.br/radar-ia/2026-11-25-radar-ia/): Radar IA, 25/11/2026. A Busca do Google começa a se conectar ao Google Wallet. E mais: ações da Anthropic abaixo do preço do IPO e outras 4 notícias de IA.
 - [Entregou no prazo e completo? O fornecedor também vê.](https://mzlabs.com.br/tally-na-pratica/2026-11-24-tally-na-pratica/): Tally na Prática, 24/11/2026. Avaliar fornecedor de memória vira discussão. Atrasou quantas vezes? Veio faltando item? Sem registro, a conversa fica no achismo.
