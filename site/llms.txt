@@ -11,6 +11,7 @@
 
 ## Posts
 
+- [A tela da nota fiscal recusou o saldo que calculou.](https://mzlabs.com.br/posts/2026-11-28-bastidores-semana-48/): MzLabs, 28/11/2026. Bastidores da fábrica, semana de 21 a 27/11.
 - [Nota fiscal em PDF ou foto? A IA lê. Você confere.](https://mzlabs.com.br/tally-na-pratica/2026-11-27-tally-na-pratica/): Tally na Prática, 27/11/2026. Nota fiscal em PDF ou foto? A IA lê. Uma pessoa confere.
 - [Google vai exigir MCP ou CLI para agentes no Workspace.](https://mzlabs.com.br/radar-ia/2026-11-27-radar-ia/): Radar IA, 27/11/2026. A partir de 1º de fevereiro de 2027, o Google vai exigir MCP ou CLI para agentes de IA acessarem dados do Workspace. O Radar traz também um modelo para teste local e o compromisso da ANPD contra material de abuso sexual infantil e imagens íntimas não consentidas geradas por IA.
 - [Vai cadastrar um material? Antes de salvar, o Tally sinaliza possíveis duplicados.](https://mzlabs.com.br/tally-na-pratica/2026-11-26-tally-na-pratica/): Tally na Prática, 26/11/2026. Cada pessoa descreve o item de um jeito. Uma escreve por extenso, outra abrevia, outra muda a ordem das palavras. O mesmo material ganha dois códigos, e a base cresce com item repetido.
